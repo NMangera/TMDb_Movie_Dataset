@@ -23,16 +23,16 @@ https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 **B) What are the desired outputs?** 
 
->1. Accurately answer all questions 
+>1. Answer all questions 
 
 
 **C) What Questions To Ask?**
 
->1. How have the success of genres changed over time (Revenue/Rating)?
+>1. How has the success of genres changed over time (Revenue/Rating)?
 
 >1.1. How many movies of a particular genre have been released?
 
->1.2. Howhave the fortunes of the genres compared over time?
+>1.2. How have the fortunes of the genres compared over time?
 
 >2. How succesful are different genres (Revenue/Rating)?
 
